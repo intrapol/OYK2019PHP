@@ -1,5 +1,6 @@
 # OYK2019PHP
 özgür yaz kampı`
 ### DENEME.
-```KOD KISMI```. 
-deneme
+```sudo apt install```.  indirme komutu kalıbıdır
+
+# 
